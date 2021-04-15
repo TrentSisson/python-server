@@ -14,7 +14,7 @@ CUSTOMERS = [
         "name": "Stevie Wonder",
         "address": "230 Shadow Ln"
     }
-],
+]
 
 
 def get_all_customers():
@@ -23,7 +23,7 @@ def get_all_customers():
     # Function with a single parameter
 
 
-def get_single_animal(id):
+def get_single_customer(id):
     # Variable to hold the found customer, if it exists
     requested_customer = None
 
